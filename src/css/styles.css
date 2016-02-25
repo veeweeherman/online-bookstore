@@ -1,0 +1,40 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  background-color: #b00040;
+  padding: 20px;
+  height: 60px;
+  font-size: 200%;
+  color: #e7e7e7;
+}
+
+.columns {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+
+}
+
+.content {
+  background-color: #e7e7e7;
+}
+
+.titles {
+  display: inline;
+  background-color: orange;
+
+}
+
+.welcome {
+  background-color: yellow;
+
+}
+
+.bookInfo {
+  background-color: pink;
+  margin: 3px;
+  display: inline-block;
+  column-break-inside : avoid;
+}

@@ -1,0 +1,35 @@
+{
+  "name": "front-end-test-bigcommerce",
+  "version": "1.0.0",
+  "description": "This test is designed to evaluate front end technical skills in HTML, CSS and Javascript in a holistic manner.  That is, the ability to create a solution from requirements in a manner that is clean and maintainable.  To that end, code structure and modularity are important, while things like pixel perfection with an associate mockup is less relevant.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veeweeherman/veeweeherman.git"
+  },
+  "author": "Vy Cu <vy.hoang.cu@gmail.com> (veeweeherman.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veeweeherman/veeweeherman/issues"
+  },
+  "homepage": "https://github.com/veeweeherman/veeweeherman#readme",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "express": "^4.13.4",
+    "gulp": "^3.9.0",
+    "gulp-html-replace": "^1.5.5",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^1.5.1",
+    "lodash": "^4.1.0",
+    "normalize.css": "^3.0.3",
+    "react": "^0.14.7",
+    "react-addons-update": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  }
+}

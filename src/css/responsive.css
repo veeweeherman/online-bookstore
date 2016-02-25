@@ -1,0 +1,56 @@
+@media screen and (max-width: 480px) {
+  .header {
+    background-color: #b00040;
+  }
+  /* Book Titles */
+  .titles {
+    display: none;
+  }
+
+  /* Menu */
+
+  /* Book Info */
+  .columns {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+
+  }
+  .bookInfo {
+    background-color: pink;
+    margin: 3px;
+    display: inline-block;
+
+  }
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 660px) {
+  .header {
+    background-color: #b00040;
+  }
+  /* Book Titles */
+  .titles {
+    display: inline;
+  }
+  /* Menu */
+
+  /* Book Info */
+  .columns {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+
+  }
+  .bookInfo {
+    background-color: pink;
+    margin: 3px;
+    display: inline-block;
+    column-break-inside : avoid;
+  }
+}

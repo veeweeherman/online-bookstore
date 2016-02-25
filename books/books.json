@@ -1,0 +1,23 @@
+[
+  {
+    "title": "El Pooch",
+    "author": "Alex Nelson",
+    "image": "../assets/elpooch.jpeg",
+    "type": "book"
+
+  },
+  {
+    "title": "The Flight",
+    "author": "Scott Masterson",
+    "image": "../assets/theflight.jpg",
+    "type": "book"
+
+  },
+  {
+    "title": "Top 10 Australian beaches",
+    "author": "some Aussie bloke",
+    "image": "../assets/capehuayTasmania.jpg",
+    "type": "magazine",
+    "description": "yeah g'day mate, ta"
+  }
+]
