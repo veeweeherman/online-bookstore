@@ -1,7 +1,7 @@
 
 
 
-##Vy's Library
+##Book Worm 
 Using React, Node, Gulp, Browserify to make a virtual library of a user's book collection. For right now, it's a very MVP version of what I want to accomplish, but then again I have big eyes!
 
 To Get Started:
